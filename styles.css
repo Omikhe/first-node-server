@@ -1,0 +1,17 @@
+*{
+margin: 0;                  
+padding: 0;
+box-sizing: border-box;
+font-family: Ubuntu, Helvetica, sans-serif;
+/* border: 1px solid rgb(171, 64, 64); */
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1080px;
+}
+.hello{
+    font-weight: bold;
+    font-size: 100px;
+}
